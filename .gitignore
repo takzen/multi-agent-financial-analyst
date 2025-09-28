@@ -1,0 +1,23 @@
+# Environment variables - NEVER commit secrets
+.env
+
+# Virtual environment folders
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS specific files
+.DS_Store
+
+description.txt
