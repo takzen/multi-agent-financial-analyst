@@ -6,7 +6,7 @@
 
 ## 🚀 Overview
 
-This project showcases a senior-level implementation of a **multi-agent system**, a sophisticated AI architecture where multiple specialized agents collaborate to solve a complex problem. The application takes a stock symbol as input and orchestrates a team of AI agents to perform a comprehensive financial analysis.
+This project showcases an advanced implementation of a **multi-agent system**, a sophisticated AI architecture where multiple specialized agents collaborate to solve a complex problem. The application takes a stock symbol as input and orchestrates a team of AI agents to perform a comprehensive financial analysis.
 
 The system is built using **LangGraph**, a library for building stateful, multi-agent applications. It demonstrates an advanced understanding of agent-based architectures, state management, and workflow orchestration in Generative AI.
 
